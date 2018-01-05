@@ -35,3 +35,5 @@ cacheSolve <- function(x=matrix(), ...) {
   x$setmatrix(m)
   m
 }
+
+print ("a")
